@@ -1,9 +1,8 @@
 # AppLab
 Community platform for AI app builders
 ## Bio
-AppLab is a community open to anyone who's interested in building apps with AI/vibecoding. We brainstorm project ideas, and the best tools to use to bring them to life. We also host meetups and events, scheduled by members in our Discord community <br>
-<br>
-**Official Links:**<br>
+AppLab is a community open to anyone who's interested in building apps with AI/vibecoding. We brainstorm project ideas, and the best tools to use to bring them to life. We also host meetups and events, scheduled by members in our Discord community.
+<h4>Official Links:</h4>h4>
 Website: applab.club<br>
 Discord: [discord link]
 ### Check Out The Google Doc
